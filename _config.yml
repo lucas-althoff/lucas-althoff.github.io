@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Msc. Lucas dos Santos Althoff"
   avatar           : "profile.png"
-  bio              : "Brazilian scientist looking for out of the box projects"
+  bio              : "Brazilian research scientist at UnB, looking for out of the box projects"
   location         : "Brasília, Distrito Federal, Brasil"
   employer         :
   pubmed           : 
@@ -106,7 +106,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-3387-9686"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/13046357/lucas-althoff"
   steam            :
   tumblr           :
   twitter          : 
