@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Msc. Lucas dos Santos Althoff"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Brazilian scientist looking for out of the box projects"
   location         : "Brasília, Distrito Federal, Brasil"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com.br/citations?hl=pt-BR&user=POn52SkAAAAJ"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Lucas_Althoff"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
