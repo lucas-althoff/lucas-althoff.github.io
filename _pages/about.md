@@ -19,10 +19,14 @@ Academic experience
 
 * Mestre em Ensino de Física, Lucas também desenvolveu pesquisas em Educação investigando metodologias ativas e uso de novas tecnologias em sala de aula. Recentemente, Lucas atuou como Assistente de Pesquisa no [projeto MAP](https://www.finatec.org.br/noticias/projeto-map-engenharia-de-producao-ft-unb-finatec-sugerem-melhorias-para-os-processos-de-gestao-de-pessoal-do-exercito-brasileiro) do Departamento de engenharia de produção (EPR/UnB), onde orientou uma equipe de pesquisa, desenvolveu metodologias de melhoria de processos e realizou pesquisas aplicadas afetas a estas áreas publicando em conferências nacionais e internacionais. 
 
-* Em nível de graduação, Lucas concluiu bacharel em Física Computacional pela Universidade de Brasília (2014) e Licenciatura em Física pela Universidade Católica de Brasília (2017). Durante a graduação realizou duas pesquisas como parte do Programa Institucional de Bolsas de Iniciação Científica (PIBIC - CNPq) no campo da Astrofísica e Cosmologia computacional com o desenvolvimento de softwares e sistematização de análise de dados.
+* Em nível de graduação, Lucas concluiu bacharel em Física Computacional pela Universidade de Brasília (2014) e Licenciatura em Física pela Universidade Católica de Brasília (2017). Durante a graduação realizou duas pesquisas como parte do Programa Institucional de Bolsas de Iniciação Científica (PIBIC - CNPq) no campo da Astrofísica e Cosmologia computacional com o desenvolvimento de softwares e sistematização de análise de dados e participou de uma série de conferências e workshops.
 
 Professional experience
 ======
 * Além da atuação como pesquisador, possui a experiência de 4 anos como professor de matemática e física para ensino fundamental, ensino médio. Outras áreas do conhecimento também integram sua trajetória profissional contando com a participação em produção executiva de projetos culturais, cinegrafista e editor de vídeos.
 
 * Realizou trabalho voluntário em sua cidade em projeto de ecologia e edupcação ambiental.
+
+Awards
+======
+
