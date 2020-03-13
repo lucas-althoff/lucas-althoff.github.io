@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.br/citations?hl=pt-BR&user=POn52SkAAAAJ"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Lucas_Althoff"
+  email            : "ls.althoff@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Lucas_Althoff"
   uri              :
   bitbucket        :
   codepen          :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  lattes           : "http://lattes.cnpq.br/5258070059803891"
 
 # Reading Files
 include:
