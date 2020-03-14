@@ -84,11 +84,9 @@ Publications
 
 9. Mobile Banking Usability: Multivariate Analisys of Background Factors, Mariano, A. M., Azar, M., Tavares, I., Althoff, L. S. and Relim, T. In: International Business Information Management Conference (34th IBIMA) ISBN: 978-0-9998551-3-3, 2019.
 
-10. Gestão da inovação em organizações militares: Uma revisão sistemática da literatura, In: ENEGEP, 2019.
+10. INOVAÇÃO GERENCIAL EM ORGANIZAÇÕES MILITARES: APLICAÇÃO DA TEORIA DA ABORDAGEM META-ANALÍTICA CONSOLIDADA, In: ENEGEP, 2019.
 
-11. INOVAÇÃO GERENCIAL EM ORGANIZAÇÕES MILITARES: APLICAÇÃO DA TEORIA DA ABORDAGEM META-ANALÍTICA CONSOLIDADA, In: ENEGEP, 2019.
-
-12. A INFLUÊNCIA DA GESTÃO DA TECNOLOGIA DA INFORMAÇÃO NO ÂMBITO MILITAR: UMA APLICAÇÃO DA TEORIA DO ENFOQUE META ANALÍTICO CONSOLIDADO, In: ENEGEP, 2019. 
+11. A INFLUÊNCIA DA GESTÃO DA TECNOLOGIA DA INFORMAÇÃO NO ÂMBITO MILITAR: UMA APLICAÇÃO DA TEORIA DO ENFOQUE META ANALÍTICO CONSOLIDADO, In: ENEGEP, 2019. 
 
 Conference and workshop participation
 ======
