@@ -47,6 +47,7 @@ Public and private educational system. Dealing with active methodologies like in
 Skills
 ======
 * Language
+  * Portuguese
   * English
   * Spanish 
 * Programming
@@ -91,20 +92,18 @@ Publications
 
 Conference and workshop participation
 ======
-1. 
+1. 2° Jayme Tiomno School of Cosmology, 2012.
 
-2.
+2. 1ª Escola de Física Roberto A. Salmeron, 2012.
 
-3.
+3. Encontro de Física, 2011.
 
-4.
+4. 12º Encontro Nacional de Astronomia, 2009.
 
 Graduation Defense Committe Member
 ======
-
-* Análise de Modelos de Saliência para Vídeos 360 Graus”, Bernardo Magalhães Morales, Part of Electrical Engineering Conclusion Graduation, University of Brasília, 2019.
-Defense commitee members: Mylène C. Q. de Farias (Advisor), João Luiz Azevedo de Carvalho, Lucas dos Santos Althoff.
-
+* Análise de Modelos de Saliência para Vídeos 360 Graus, Bernardo Magalhães Morales, Part of Electrical Engineering Conclusion Graduation, University of Brasília, 2019.
+  Defense commitee members: Mylène C. Q. de Farias (Advisor), João Luiz Azevedo de Carvalho, Lucas dos Santos Althoff.
 
 Awards
 ======
@@ -112,11 +111,11 @@ Awards
 
 Complementary formation
 ======
-*	B2 TOEFL\itp – 2018 (Listening Comprehension: 60, Structure & Written Expression: 58, Reading Comprehension: 57, Total score: 583);
-*	Formating and editing in Latex – 2010, 8 hours presencial course - 2012;
-*	Python Basics "The Python Bible", 9 hours e-course on Udemy - 2019;
-* BPM Business Process Management, 24 hours presencial course - 2018;
-* Basics programing skills on Matlab, C/C++, java
+*	B2 TOEFL\itp – 2018 (Listening Comprehension: 60, Structure & Written Expression: 58, Reading Comprehension: 57, Total score: 583).
+*	Formating and editing in Latex – 2010, 8 hours presencial course - 2012.
+*	Python Basics "The Python Bible", 9 hours e-course on Udemy - 2019.
+* BPM Business Process Management, 24 hours presencial course - 2018.
+* Basics programing skills on Matlab, C/C++, java.
 
 <!--Talks
 ======
