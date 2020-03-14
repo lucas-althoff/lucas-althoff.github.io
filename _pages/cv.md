@@ -62,17 +62,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-##Thesis & conclusion work
+## Thesis & conclusion work
 1.  Particle Physics from the Dialogue: A Teaching Methodology to the Evening High School. Lucas S. Althoff. Master Thesis. University of Brasília, 2018.
 
 2. Implementation of Massively Parallelized Algorithms for decontamination of the Cosmic Microwave Background Radiation Part I: Component Separation Algorithm. Final Graduation Work. Lucas S. Althoff. University of Brasília, 2014
 
-##Book Chapters
+## Book Chapters
 3. A bibliographic review of Software Metrics: applying the Consolidated Meta-Analytic Approach, Ari Melo Mariano, Ana Carla Bittencourt Reis, Lucas dos Santos Althoff, Laís Bandeira Barros In: Springer Proceedings in Mathematics & Statistics (PROMS, XXIV IJCIEOM 2018, pg. 243-256). 
 
 4. Gestão da inovação em organizações militares: Uma revisão sistemática da literatura, In: Gestão da Produção em Foco - Volume 41, DOI: 10.36229/978-85-7042-213-2.CAP.05
 
-##Refereed Conference Papers
+## Refereed Conference Papers
 5. Exploring Active Learning Resources for Team Training in a Multidisciplinary Research Project, Lucas S. Althoff, Camila M. A. Silva, Patrícia M. Milhomem, Ana Carla B. Reis, In: PAEE/ALE proceedings, 2019.  
 
 6. The Fermi Observatory's data processing and analysis chain for studying gamma-ray bursts, Lucas S. Althoff, Ivan Soares Ferreira, Eduardo Couto e Silva, In: 19º Congresso de Inicição Científica da UnB, 2013.
@@ -91,6 +91,13 @@ Publications
 
 Conference and workshop participation
 ======
+1. 
+
+2.
+
+3.
+
+4.
 
 Graduation Defense Committe Member
 ======
