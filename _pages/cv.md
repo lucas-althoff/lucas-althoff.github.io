@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-  *[Academic CV - Lattes](http://lattes.cnpq.br/5258070059803891) 
-  *[Developer CV]()
-  *[BPM Consultant CV]()
+  * [Academic CV - Lattes](http://lattes.cnpq.br/5258070059803891) 
+  * [Developer CV]()
+  * [BPM Consultant CV]()
 
 Research Interest
 ======
