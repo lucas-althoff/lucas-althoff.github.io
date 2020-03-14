@@ -25,10 +25,13 @@ Education
 
 Position Held
 ======
-1.	Digital signal processing group – Researcher, 2019 – present.
-Ph. D. researcher. Research assistant at project "Perceptually-efficient streaming of 360-degree Edited Video". Dealing with digital signal processing, deep learning models, omnidirectional visual processing, saliency prediction, subjective visual experiments, visual quality assessment, video streaming and coding. 
+1.	Ph. D. candidate, 2019 – present.
+  * Department of Computational Science (PPGI/CIC/UnB)
+  * Laboratory: Digital Signal Processing Group (GPDS/ENE/UnB)
+  * Supervisor: Professor [Mylenè Farias](https://www.researchgate.net/profile/Mylene_Farias)
+  Research assistant at project "Perceptually-efficient streaming of 360-degree Edited Video". Dealing with digital signal processing, deep learning models, omnidirectional visual processing, saliency prediction, subjective visual experiments, visual quality assessment, video streaming and coding. 
 
-2. Projeto MAP (2018-2020): Research Assistant
+2. Research Assistant at Projeto MAP, 2018-2020. 
   * Department of Production Engineering (EPR/UnB)
   * Supervisor: Professor [Ari Mariano](https://www.researchgate.net/profile/Ari_Mariano), Professor [Ana Carla](https://www.researchgate.net/profile/ANA_CARLA_Reis), Professor [Simone Borges](https://www.researchgate.net/profile/Simone_Monteiro4)
   Post-graduate research assistant. Integrating a multidisciplinary project in CEFTRU/UnB in collaboration with a big military organization. As assistant I supervise a research team on 4.0 industry technological solutions including methods of data science, requirements engineering, business process and competencies management. Also responsible for research planning, project management. development of new methodologies.
