@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Academic CV - Lattes](http://lattes.cnpq.br/5258070059803891) 
+[Developer CV]()
+[BPM Consultant CV]()
 
 Research Interest
 ======
