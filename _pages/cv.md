@@ -107,6 +107,7 @@ Graduation Defense Committe Member
 
 Awards
 ======
+* Best Dissertation Paper from the Program MNPEF (PROEB/Capes)
 * Best paper submitted at XXIV IJCIEOM 2018
 
 Complementary formation
