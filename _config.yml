@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Msc. Lucas dos Santos Althoff"
+title                    : "Lucas dos Santos Althoff"
 title_separator          : "-"
 name                     : &name "Msc. Lucas dos Santos Althoff"
 description              : &description "PhD. Candidate at University of Brasília"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Msc. Lucas dos Santos Althoff"
+  name             : "Lucas dos Santos Althoff"
   avatar           : "lucas_perfil.jpg"
   bio              : "Brazilian research scientist at UnB, looking for out of the box projects"
   location         : "Brasília, Distrito Federal, Brasil"
-  employer         :
+  employer         : "University of Brasília"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.br/citations?hl=pt-BR&user=POn52SkAAAAJ"
   email            : "ls.althoff@gmail.com"
