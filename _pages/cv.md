@@ -70,25 +70,27 @@ Publications
 
 2. Implementation of Massively Parallelized Algorithms for decontamination of the Cosmic Microwave Background Radiation Part I: Component Separation Algorithm. Final Graduation Work. Lucas S. Althoff. University of Brasília, 2014
 
-## Book Chapters
+## Book Chapters & E-books
 3. A bibliographic review of Software Metrics: applying the Consolidated Meta-Analytic Approach, Ari Melo Mariano, Ana Carla Bittencourt Reis, Lucas dos Santos Althoff, Laís Bandeira Barros In: Springer Proceedings in Mathematics & Statistics (PROMS, XXIV IJCIEOM 2018, pg. 243-256). 
 
 4. Gestão da inovação em organizações militares: Uma revisão sistemática da literatura, In: Gestão da Produção em Foco - Volume 41, DOI: 10.36229/978-85-7042-213-2.CAP.05
 
+5. A física de partículas a partir do diálogo: uma proposta didática para o 1º ano do ensino médio noturno, URL: https://lucas-althoff.github.io/files/ProdutoEducacional_MNPEF_Lucas Althoff_v0.4.pdf
+
 ## Refereed Conference Papers
-5. Exploring Active Learning Resources for Team Training in a Multidisciplinary Research Project, Lucas S. Althoff, Camila M. A. Silva, Patrícia M. Milhomem, Ana Carla B. Reis, In: PAEE/ALE proceedings, 2019.  
+6. Exploring Active Learning Resources for Team Training in a Multidisciplinary Research Project, Lucas S. Althoff, Camila M. A. Silva, Patrícia M. Milhomem, Ana Carla B. Reis, In: PAEE/ALE proceedings, 2019.  
 
-6. The Fermi Observatory's data processing and analysis chain for studying gamma-ray bursts, Lucas S. Althoff, Ivan Soares Ferreira, Eduardo Couto e Silva, In: 19º Congresso de Inicição Científica da UnB, 2013.
+7. The Fermi Observatory's data processing and analysis chain for studying gamma-ray bursts, Lucas S. Althoff, Ivan Soares Ferreira, Eduardo Couto e Silva, In: 19º Congresso de Inicição Científica da UnB, 2013.
 
-7. Implementation of Massively Parallelized Algorithms for decontamination of the Cosmic Microwave Background Radiation Part I: Component Separation Algorithm, Lucas S. Althoff, Ivan Soares Ferreira. In: 19º Congresso de Inicição Científica da UnB, 2012.
+8. Implementation of Massively Parallelized Algorithms for decontamination of the Cosmic Microwave Background Radiation Part I: Component Separation Algorithm, Lucas S. Althoff, Ivan Soares Ferreira. In: 19º Congresso de Inicição Científica da UnB, 2012.
 
-8. Enjoy the Journey: Exploring Airlines Service Quality in Brazil, Mariano, A. M., Gonçalez, L. F., Baumann, B., Althoff, L. S. and Relim, T. E.,  In: International Business Information Management Conference (34th IBIMA) ISBN: 978-0-9998551-3-3, 2019.
+9. Enjoy the Journey: Exploring Airlines Service Quality in Brazil, Mariano, A. M., Gonçalez, L. F., Baumann, B., Althoff, L. S. and Relim, T. E.,  In: International Business Information Management Conference (34th IBIMA) ISBN: 978-0-9998551-3-3, 2019.
 
-9. Mobile Banking Usability: Multivariate Analisys of Background Factors, Mariano, A. M., Azar, M., Tavares, I., Althoff, L. S. and Relim, T. In: International Business Information Management Conference (34th IBIMA) ISBN: 978-0-9998551-3-3, 2019.
+10. Mobile Banking Usability: Multivariate Analisys of Background Factors, Mariano, A. M., Azar, M., Tavares, I., Althoff, L. S. and Relim, T. In: International Business Information Management Conference (34th IBIMA) ISBN: 978-0-9998551-3-3, 2019.
 
-10. INOVAÇÃO GERENCIAL EM ORGANIZAÇÕES MILITARES: APLICAÇÃO DA TEORIA DA ABORDAGEM META-ANALÍTICA CONSOLIDADA, In: ENEGEP, 2019.
+11. INOVAÇÃO GERENCIAL EM ORGANIZAÇÕES MILITARES: APLICAÇÃO DA TEORIA DA ABORDAGEM META-ANALÍTICA CONSOLIDADA, In: ENEGEP, 2019.
 
-11. A INFLUÊNCIA DA GESTÃO DA TECNOLOGIA DA INFORMAÇÃO NO ÂMBITO MILITAR: UMA APLICAÇÃO DA TEORIA DO ENFOQUE META ANALÍTICO CONSOLIDADO, In: ENEGEP, 2019. 
+12. A INFLUÊNCIA DA GESTÃO DA TECNOLOGIA DA INFORMAÇÃO NO ÂMBITO MILITAR: UMA APLICAÇÃO DA TEORIA DO ENFOQUE META ANALÍTICO CONSOLIDADO, In: ENEGEP, 2019. 
 
 Conference and workshop participation
 ======
