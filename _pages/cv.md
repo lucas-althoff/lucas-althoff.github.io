@@ -11,7 +11,7 @@ redirect_from:
   * [Developer CV](https://lucas-althoff.github.io/files/LucasAlthoff_DesenvolvedorIA_2020.pdf) (Portuguese)
   * [BPM Consultant CV](https://lucas-althoff.github.io/files/LucasAlthoff_BPMConsultant_2019.pdf) (Portuguese)
 
-#RESUMÉ
+# CV RESUMÉ
 
 Research Interest
 ======
