@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,20 +13,40 @@ This is Lucas Althoff's home on the web!
 I'am always opened to fruitfull collaborations. 
 Feel free to get in touch at one of my social medias. 
 
-Academic experience
+Research Interest
 ======
-* Candidato a PhD. em Ciências da Computação no programa de pós-graduação em informática (PPGI/UnB) da Universidade de Brasília. Atua como pesquisador do laboratório [GPDS](http://www.gpds.ene.unb.br/#) onde participa do projeto "Perceptually-Efficient Streaming of 360-degree Edited Videos". Sua área de interesse atual se concentra nas subáreas de visão computacional e processamento de imagem e vídeo, especificamente na predição da atenção visual em imagens e vídeos 360° aplicando técnicas de machine learning e cinematografia automática. 
+*	Spherical video processing, visual attention, saliency prediction, machine learning;
+*	Computational physics, astrophysics, spectral analysis;  
+*	STEAM teaching and learning, multidisciplinary teamwork, creative thinking; (Scientific democratization, )
+*	Project management, business process, 4.0 industry technology. ()
 
-* Mestre em Ensino de Física, também desenvolveu pesquisas em Educação investigando metodologias ativas e uso de novas tecnologias em sala de aula. Até fevereiro de 2020 atuou como Assistente de Pesquisa no [projeto MAP](https://www.finatec.org.br/noticias/projeto-map-engenharia-de-producao-ft-unb-finatec-sugerem-melhorias-para-os-processos-de-gestao-de-pessoal-do-exercito-brasileiro) do Departamento de engenharia de produção (EPR/UnB), onde orientou uma equipe de pesquisa, desenvolveu metodologias de melhoria de processos e realizou pesquisas aplicadas afetas a estas áreas publicando em conferências nacionais e internacionais. 
-
-* Em nível de graduação, concluiu bacharel em Física Computacional pela Universidade de Brasília (2014) e Licenciatura em Física pela Universidade Católica de Brasília (2017). Durante a graduação realizou duas pesquisas como parte do Programa Institucional de Bolsas de Iniciação Científica (PIBIC - CNPq) no campo da Astrofísica e Cosmologia computacional com o desenvolvimento de softwares e sistematização de análise de dados e participou de uma série de conferências e workshops.
-
-Professional experience
+Education
 ======
-* Além da atuação como pesquisador, possui a experiência de 4 anos como professor de matemática e física para ensino fundamental, ensino médio. Outras áreas do conhecimento também integram sua trajetória profissional contando com a participação em produção executiva de projetos culturais, cinegrafista e editor de vídeos.
+* Doctoral Student in Saliency Prediction for 360° Videos, University of Brasília (UnB), 2022 (expected)
+* M.S. in Physics Teaching, University of Brasília (UnB), 2018
+* Major in Physics, Catholic University of Brasília (UCB), 2017
+* B.S. in Computational Physics, University of Brasília (UnB), 2014
 
-* Realizou trabalho voluntário em sua cidade em projeto de ecologia e edupcação ambiental.
+Actual Position 
+======
+
+Doctoral Student, 2019 – present.
+  * Department of Computational Science (PPGI/CIC/UnB)
+  * Laboratory: Digital Signal Processing Group (GPDS/ENE/UnB)
+  * Supervisor: Professor [Mylenè Farias](https://www.researchgate.net/profile/Mylene_Farias)
+
+Research assistant at project "Perceptually-efficient streaming of 360-degree Edited Video". 
+Dealing with digital signal processing, deep learning models, omnidirectional visual processing, saliency prediction, subjective visual experiments, visual quality assessment, video streaming and coding. 
 
 Awards
 ======
+* Best Dissertation Paper from the Program MNPEF (PROEB/Capes)
+* Best paper submitted at XXIV IJCIEOM 2018
 
+Hobbies
+======
+I understand that science and art can become a powerfull tool to overcome inequality in the word,
+turning science less boring and art even more expansive. I have a personal goal to contribute 
+in **Audiovisual Projects** (as well as other cultural projects) 
+which I could collaborate to bring a positive social impact by making use of the technical knowledge 
+developed in academic context.

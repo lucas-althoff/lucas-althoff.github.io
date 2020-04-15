@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /
 ---
 
   * [Academic CV](https://lucas-althoff.github.io/files/LucasAlthoff_researcher_2020.pdf) (English)
