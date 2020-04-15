@@ -11,7 +11,7 @@ redirect_from:
   * [Developer CV](https://lucas-althoff.github.io/files/LucasAlthoff_DesenvolvedorIA_2020.pdf) (Portuguese)
   * [BPM Consultant CV](https://lucas-althoff.github.io/files/LucasAlthoff_BPMConsultant_2019.pdf) (Portuguese)
 
-**RESUMÉ**
+#RESUMÉ
 
 Research Interest
 ======
@@ -22,7 +22,7 @@ Research Interest
 
 Education
 ======
-* Ph.D Candidate in Saliency Prediction for 360° Videos, University of Brasília (UnB), 2022 (expected)
+* Doctoral Student in Saliency Prediction for 360° Videos, University of Brasília (UnB), 2022 (expected)
 * M.S. in Physics Teaching, University of Brasília (UnB), 2018
 * Major in Physics, Catholic University of Brasília (UCB), 2017
 * B.S. in Computational Physics, University of Brasília (UnB), 2014
@@ -38,33 +38,12 @@ Doctoral Student, 2019 – present.
 Research assistant at project "Perceptually-efficient streaming of 360-degree Edited Video". 
 Dealing with digital signal processing, deep learning models, omnidirectional visual processing, saliency prediction, subjective visual experiments, visual quality assessment, video streaming and coding. 
 
-Last Project Participation 
+Last Project Participation   
 ======
 Research Assistant at Projeto MAP, 2018-2020. 
   * Department of Production Engineering (EPR/UnB)
   * Supervisor: Professor [Ari Mariano](https://www.researchgate.net/profile/Ari_Mariano), Professor [Ana Carla](https://www.researchgate.net/profile/ANA_CARLA_Reis), Professor [Simone Borges](https://www.researchgate.net/profile/Simone_Monteiro4)
   Post-graduate research assistant. Integrating a multidisciplinary project in CEFTRU/UnB in collaboration with a big military organization. As assistant I supervise a research team on 4.0 industry technological solutions including methods of data science, requirements engineering, business process and competencies management. Also responsible for research planning, project management. development of new methodologies.
-
-3. Junior Scientific Iniciation Programme (Pibic/CNPq) (2011-2013): Junior Researcher
-  * Department of Physics (IF/UnB)
-  * Supervisor: Professor [Ivan Ferreira](https://www.researchgate.net/profile/Ivan_Ferreira3)
-  Graduate student/research assistant. Research on filtering techniques of spherical astrophysical data. Dealing with spectral analysis and phenomena like gamma ray bursts and cosmic microwave background. Occupied the role of monitor in three graduation disciplines.
-  
-4. Physics and math teacher in high school, 2014 – 2018.
-Public and private educational system. Dealing with active methodologies like inverted classroom, blended classroom. . Experienced teaching inside different social in contexts. 
-  
-Skills
-======
-* Language
-  * Portuguese
-  * English
-  * Spanish 
-* Programming
-  * Python;
-  * C/C++;
-  * Java;
-  * Linux;
-* Latex formating and editing
 
 Awards
 ======
