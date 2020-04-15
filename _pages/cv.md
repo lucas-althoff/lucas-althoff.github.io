@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-  * [Academic CV - Lattes](http://lattes.cnpq.br/5258070059803891) 
-  * [Developer CV]()
-  * [BPM Consultant CV]()
+  * [Academic CV](https://lucas-althoff.github.io/files/LucasAlthoff_researcher_2020.pdf) 
+  * [Developer CV](https://lucas-althoff.github.io/files/LucasAlthoff_DesenvolvedorIA_2020.pdf)
+  * [BPM Consultant CV](https://lucas-althoff.github.io/files/LucasALthoff_BPMConsultant_2019.pdf)
 
 Research Interest
 ======
@@ -20,10 +20,10 @@ Research Interest
 
 Education
 ======
-* B.S. in Computational Physics, University of Brasília (UnB), 2014
-* Major in Physics, Catholic University of Brasília (UCB), 2017
-* M.S. in Physics Teaching, University of Brasília (UnB), 2018
 * Ph.D Candidate in Saliency Prediction for 360° Videos, University of Brasília (UnB), 2022 (expected)
+* M.S. in Physics Teaching, University of Brasília (UnB), 2018
+* Major in Physics, Catholic University of Brasília (UCB), 2017
+* B.S. in Computational Physics, University of Brasília (UnB), 2014
 
 Position Held
 ======
