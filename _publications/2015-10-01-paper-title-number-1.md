@@ -1,7 +1,7 @@
 ---
 title: "A Bibligraphic Review of Software Metrics: Applying the Consolidated Meta-Analytic Approach"
 collection: publications
-permalink: /publication/2019-SoftwareMetrics
+permalink: /publication/2015-10-01-paper-title-number-1
 excerpt: 'A review over Software Metrics using [TEMAC](https://www.pesquisatemac.com/) and was awarded with a book chapter in the IJCIEOM 2018 conference.'
 date: 2018
 venue: 'IJCIEOM 2018'
