@@ -10,9 +10,12 @@ redirect_from:
 
 This is Lucas Althoff's home on the web!
 
-By now I am full time active in a research project about Editing Technics to Improve Streaming 360 Videos which are
-related directly to my thesis work. Specifically, I am working at 360-degree Videos Saliency Prediction with Deep Learning models. 
-Please, feel free to get in touch at one of my social medias opened to fruitful collaborations. 
+At present I am working on a doctoral thesis in the research area of Saliency Prediction on 360° Videos, applied technologies like Virtual Reality and Machine Learning are some of the possible interesting applications of my work.
+
+I am also working in a research project (PES360)[https://lucas-althoff.github.io/portfolio/pes360] about editing technics to improve 360° videos streaming, which are related directly to my thesis work. 
+
+Please refer to my CV, or my socialmedias, if you have interest to make some fruitful colab.
+Get in touch via e-mail for professional and academic proposes, as well as, for research and development collaborations.
 
 Research Interest
 ======
@@ -46,8 +49,7 @@ Awards
 
 Hobbies
 ======
-I understand that science and art can become a powerful tool to overcome inequality in the word,
-turning science less boring and art even more expansive. I have a personal goal to contribute 
-in **Audiovisual Projects** (as well as other cultural projects) 
-which I could collaborate to bring a positive social impact by making use of the technical knowledge 
-developed in academic context.
+I understand that science and art can become a powerful tool to overcome inequality in the world,
+turning science less boring and art even more expansive. 
+Contributing with **Audiovisual Projects** (as well as other cultural projects) is a personal goal, which I'd could collaborate to 
+bring a positive social impact by making use of the technical knowledge developed in academic context.
