@@ -14,7 +14,7 @@ At present I am working on a doctoral thesis in the research area of Computer Vi
 
 I am also working in a research project [PES360](https://lucas-althoff.github.io/portfolio/pes360) about editing technics to improve 360° videos streaming, which are related directly to my thesis work.
 
-Please refer to my [CV](https://lucas-althoff.github.io/cv/), my (publications)[https://lucas-althoff.github.io/publications/] or one of my social medias if you have interest to make some fruitful colab.
+Please refer to my [CV](https://lucas-althoff.github.io/cv/), my [publication samples](https://lucas-althoff.github.io/publications/) or one of my social medias if you have interest to make some fruitful colab.
 Get in touch via e-mail for professional and academic proposes, as well as, for research and development collaborations.
 
 Research Interest
