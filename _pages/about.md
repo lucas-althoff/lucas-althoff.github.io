@@ -12,15 +12,15 @@ This is Lucas Althoff's home on the web!
 
 At present I am working on a doctoral thesis in the research area of Saliency Prediction on 360° Videos, applied technologies like Virtual Reality and Machine Learning are some of the possible interesting applications of my work.
 
-I am also working in a research project (PES360)[https://lucas-althoff.github.io/portfolio/pes360] about editing technics to improve 360° videos streaming, which are related directly to my thesis work. 
+I am also working in a research project [PES360](https://lucas-althoff.github.io/portfolio/pes360) about editing technics to improve 360° videos streaming, which are related directly to my thesis work. 
 
-Please refer to my (CV)[https://lucas-althoff.github.io/cv/], or my socialmedias, if you have interest to make some fruitful colab.
+Please refer to my [CV](https://lucas-althoff.github.io/cv/), or my socialmedias, if you have interest to make some fruitful colab.
 Get in touch via e-mail for professional and academic proposes, as well as, for research and development collaborations.
 
 Research Interest
 ======
 *	Spherical video processing, visual attention, saliency prediction, machine learning;
-* Multimedia 
+* Multimedia, video editing, video storytelling, cinematography; (Audio Visual)
 *	Computational physics, astrophysics, spectral analysis;  
 *	STEAM teaching and learning, multidisciplinary teamwork, creative thinking; (Scientific democratization)
 *	Project management, business process, 4.0 industry technology. (BPM Consultant)
