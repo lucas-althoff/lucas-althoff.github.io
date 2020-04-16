@@ -10,8 +10,9 @@ redirect_from:
 
 This is Lucas Althoff's home on the web!
 
-I'am always opened to fruitfull collaborations. 
-Feel free to get in touch at one of my social medias. 
+By now I am full time active in a research project about Editing Technics to Improve Streaming 360 Videos which are
+related directly to my thesis work. Specifically, I am working at 360-degree Videos Saliency Prediction with Deep Learning models. 
+Please, feel free to get in touch at one of my social medias opened to fruitful collaborations. 
 
 Research Interest
 ======
@@ -45,7 +46,7 @@ Awards
 
 Hobbies
 ======
-I understand that science and art can become a powerfull tool to overcome inequality in the word,
+I understand that science and art can become a powerful tool to overcome inequality in the word,
 turning science less boring and art even more expansive. I have a personal goal to contribute 
 in **Audiovisual Projects** (as well as other cultural projects) 
 which I could collaborate to bring a positive social impact by making use of the technical knowledge 
