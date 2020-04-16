@@ -16,9 +16,10 @@ redirect_from:
 Research Interest
 ======
 *	Spherical video processing, visual attention, saliency prediction, machine learning;
+* Multimedia, video editing, video storytelling, cinematography; (Audio Visual)
 *	Computational physics, astrophysics, spectral analysis;  
-*	STEAM teaching and learning, multidisciplinary teamwork, creative thinking;
-*	Project management, business process, 4.0 industry technology. 
+*	STEAM teaching and learning, multidisciplinary teamwork, creative thinking; (Scientific democratization)
+*	Project management, business process, 4.0 industry technology. (BPM Consultant)
 
 Education
 ======
@@ -67,6 +68,6 @@ Important publications
 
 5. Enjoy the Journey: Exploring Airlines Service Quality in Brazil, Mariano, A. M., Gonçalez, L. F., Baumann, B., Althoff, L. S. and Relim, T. E.,  In: International Business Information Management Conference (34th IBIMA) ISBN: 978-0-9998551-3-3, 2019.
 
-10. Mobile Banking Usability: Multivariate Analisys of Background Factors, Mariano, A. M., Azar, M., Tavares, I., Althoff, L. S. and Relim, T. In: International Business Information Management Conference (34th IBIMA) ISBN: 978-0-9998551-3-3, 2019.
+6.  Mobile Banking Usability: Multivariate Analisys of Background Factors, Mariano, A. M., Azar, M., Tavares, I., Althoff, L. S. and Relim, T. In: International Business Information Management Conference (34th IBIMA) ISBN: 978-0-9998551-3-3, 2019.
 
-11. Inovação gerancial em instituições militares: Aplicação da Teoria do Enfoque Meta-Analítica Consolidada, In: ENEGEP, 2019.
+7.  Inovação gerancial em instituições militares: Aplicação da Teoria do Enfoque Meta-Analítica Consolidada, In: ENEGEP, 2019.

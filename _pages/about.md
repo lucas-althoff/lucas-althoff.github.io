@@ -10,7 +10,7 @@ redirect_from:
 
 This is Lucas Althoff's home on the web!
 
-At present I am working on a doctoral thesis in the research area of Saliency Prediction on 360° Videos, applied technologies like Virtual Reality and Machine Learning are some of the possible interesting applications of my work.
+At present I am working on a doctoral thesis in the research area of Computer Vision, specifically Saliency Prediction on 360° Videos. Applied technologies like Virtual Reality and Machine Learning are some of the possible interesting applications of my work.
 
 I am also working in a research project [PES360](https://lucas-althoff.github.io/portfolio/pes360) about editing technics to improve 360° videos streaming, which are related directly to my thesis work. 
 
