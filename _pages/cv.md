@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-  * [Academic CV](https://lucas-althoff.github.io/files/LucasAlthoff_researcher_2020.pdf) (English)
+  * [Academic CV1](https://lucas-althoff.github.io/files/LucasAlthoff_researcher_2020.pdf) (English)
+  * [Academic CV2 - Lattes](http://lattes.cnpq.br/5258070059803891) (Portuguese)
   * [Developer CV](https://lucas-althoff.github.io/files/LucasAlthoff_DesenvolvedorIA_2020.pdf) (Portuguese)
   * [BPM Consultant CV](https://lucas-althoff.github.io/files/LucasAlthoff_BPMConsultant_2019.pdf) (Portuguese)
 
