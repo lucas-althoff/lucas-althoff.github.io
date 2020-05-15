@@ -1,6 +1,6 @@
 ---
 title: "[MAP](https://www.finatec.org.br/noticias/projeto-map-engenharia-de-producao-ft-unb-finatec-sugerem-melhorias-para-os-processos-de-gestao-de-pessoal-do-exercito-brasileiro) - Bussiness Processes Modeling and Automation"
-excerpt: "Projeto Multidisciplinar de Eng. de Produção Eng. de Software e Psicologia com objetivo de otimizar, modernizar e colocar em prática um novo modelo de gestão do conhecimento e de pessoas, o Departamento Geral do Pessoal (DGP) do Exército Brasileiro com a modelagem de 200 processos em notação BPMN e melhoria de 16 macroprocessos contando com uma proposição de arquitetura de macroprocessos da instituição [![Projeto MAP](https://img.youtube.com/vi/qaLZMVd3JXQ/0.jpg)](https://www.youtube.com/watch?v=qaLZMVd3JXQ)"
+excerpt: "Multidisciplinary Project of Production Engineering Software and Psychology Engineering with the objective of optimizing, modernizing and putting into practice a new model of knowledge and people management, the General Personnel Department (DGP) of the Brazilian Army with the modeling of 200 processes in BPMN notation and improvement of 16 macroprocesses with an institution's macroprocess architecture proposal [![Projeto MAP](https://img.youtube.com/vi/qaLZMVd3JXQ/0.jpg)](https://www.youtube.com/watch?v=qaLZMVd3JXQ)"
 collection: portfolio
 ---
 
