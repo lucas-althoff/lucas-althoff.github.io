@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Física de partículas a partir do diálogo: uma proposta didática para o 1º ano do ensino médio noturno"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Educational Result (E-book) from mastership in physics teaching'
