@@ -13,4 +13,4 @@ This paper is about the number 3. The number 4 is left for future work.
 
 [Download e-book here](http://mnpef.fis.unb.br/docs/dissertacoes/2-2018/Produto_Educ_Lucas_Althoff.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Althoff, Lucas dos S. (2018). "Física de partículas a partir do diálogo: uma proposta didática para o 1º ano do ensino médio noturno" repositório de dissetações do MNPEF UnB, In:http://mnpef.fis.unb.br/docs/dissertacoes/2-2018/Dissertacao_Lucas_Althoff.pdf
