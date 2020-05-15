@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Perceptually-Efficient Streaming of 360-degree Edited Video"
+excerpt: "The main objective of this project is to develop a new algorithm for adaptive transmission of omnidirectional (or 360 degrees) video over the Internet, which is aligned with the transmission of edited videos, that is, videos formed by sequences of scenes and cuts (ex: films, TV shows, etc.).<br/><img src='/images/PES360_500x300.png'>"
 collection: portfolio
 ---
 
