@@ -7,10 +7,8 @@ redirect_from:
   - /resume
 ---
 
-  * [Academic CV1](https://lucas-althoff.github.io/files/LucasAlthoff_researcher_2020.pdf) (English)
-  * [Academic CV2 - Lattes](http://lattes.cnpq.br/5258070059803891) (Portuguese)
-  * [Developer CV](https://lucas-althoff.github.io/files/LucasAlthoff_DesenvolvedorIA_2020.pdf) (Portuguese)
-  * [BPM Consultant CV](https://lucas-althoff.github.io/files/LucasAlthoff_BPMConsultant_2019.pdf) (Portuguese)
+  * [Academic CV](https://lucas-althoff.github.io/files/curriculo_LucasAlthoff_pesquisador_2020_set.pdf) (English)
+  * [Software Representant](https://lucas-althoff.github.io/files/Lucas's Resume (3).pdf) (Portuguese)
 
 # CV RESUMÉ
 
@@ -32,7 +30,7 @@ Education
 Actual Position 
 ======
 
-Doctoral Student, 2019 – present.
+PhD. Student, 2019 – present.
   * Department of Computational Science (PPGI/CIC/UnB)
   * Laboratory: Digital Signal Processing Group (GPDS/ENE/UnB)
   * Supervisor: Professor [Mylenè Farias](https://www.researchgate.net/profile/Mylene_Farias)
