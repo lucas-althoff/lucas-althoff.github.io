@@ -7,8 +7,9 @@ redirect_from:
   - /resume
 ---
 
-  * [Academic CV](https://lucas-althoff.github.io/files/curriculo_LucasAlthoff_pesquisador_2020_set.pdf) (English)
-  * [Software Representant](https://lucas-althoff.github.io/files/Lucas's Resume (3).pdf) (Portuguese)
+  * [Academic simplified CV](https://lucas-althoff.github.io/files/curriculo_LucasAlthoff_pesquisador_2020_set.pdf) (English)
+  * [Currículo - Pesquisador](https://lucas-althoff.github.io/files/Lucas_Pesquisador_2020_out.pdf) (Portuguese)
+  * [Currículo - Software Representant](https://lucas-althoff.github.io/files/Lucas's Resume (3).pdf) (Portuguese)
 
 # CV RESUMÉ
 
@@ -22,7 +23,7 @@ Research Interest
 
 Education
 ======
-* Doctoral Student in Saliency Prediction for 360° Videos, University of Brasília (UnB), 2022 (expected)
+* PhD. Student in Saliency Prediction for 360° Videos, University of Brasília (UnB), 2022 (expected)
 * M.S. in Physics Teaching, University of Brasília (UnB), 2018
 * Major in Physics, Catholic University of Brasília (UCB), 2017
 * B.S. in Computational Physics, University of Brasília (UnB), 2014
