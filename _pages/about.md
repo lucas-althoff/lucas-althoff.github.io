@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Lucas Althoff's home on the web!
-
 Lucas S. Althoff received the B.Sc. degree in Computational Physics from the University of Brasília (UnB), Brazil, in 2014, a Major Degree in Physics from the Catholic University of Brasília, in 2017, and M.Sc. degree in Physics Teaching from UnB in 2018. 
 
 Currently, Lucas is a Ph.D candidate in Computer Science at UnB, and work as a research assistant of a research project ([PES360](https://bv.fapesp.br/pt/auxilios/105716/transmissao-perceptualmente-eficiente-de-video-ominidirecional-editado/)) regarding to saliency predictions of 360° videos for automatic editing and streaming improvement. He has three years of experience as research assistant in projects from the area of TI and management, working with topics such as machine learning model design, video processing, data analyst, database harmonization and basic web visualization of health data, business process improvement, requirements engineering. It stands out from the experience as a research assistant, the management of the research team in collaboration with undergraduate and graduate students. He also have four years of experience as Physics high school teacher in the public and private education systems.
